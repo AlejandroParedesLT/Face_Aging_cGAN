@@ -1,0 +1,8 @@
+images/train/*
+age/*
+.idea
+checkpoints/0_conv5_lsgan_transfer_g75_0.5f-4_a30/*
+checkpoints/load_pe/*
+checkpoints/pretrained/*
+
+__pycache__

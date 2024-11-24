@@ -1,0 +1,1 @@
+Step|FID|Inception_Mean|Inception_Std
