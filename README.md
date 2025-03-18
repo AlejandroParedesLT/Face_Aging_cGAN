@@ -6,7 +6,7 @@ This repository implements face aging using **Identity-Preserved Conditional Gen
 The model includes a ResNet-based generator, a PatchGAN discriminator, and an AlexNet-based feature extraction network for age classification. It uses a dataset of celebrity images from the **IMDB-WIKI** dataset and evaluates the results using metrics like **Fréchet Inception Distance (FID)** and **Inception Score (IS)**.
 
 ![alt text](https://github.com/AlejandroParedesLT/Face_Aging_cGAN/blob/main/grouped_generated_images/17_Dakota_Johnson_0009.jpg_1x5.jpg?raw=true)
-
+![alt text](https://github.com/AlejandroParedesLT/Face_Aging_cGAN/blob/main/grouped_generated_images/15_Chris_Colfer_0009.jpg_1x5.jpg?raw=true)
 ## 2. Installation
 
 To get started, first clone this repository and install the necessary Python dependencies. The required dependencies are listed in `requirements.txt`.
